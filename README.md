@@ -122,7 +122,7 @@ I'm always interested in **AI projects, collaborations, internships, and interes
 
 📧 **Email:** [sathvikscindia266@gmail.com](mailto:your-email@example.com)
 
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/)
+💼 **LinkedIn:** [www.linkedin.com/in/sathvik-scindia-b8b57935b](https://www.linkedin.com/)
 
 🌐 **Portfolio:** Coming Soon
 
