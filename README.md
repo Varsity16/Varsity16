@@ -98,7 +98,6 @@ AI Agents           ████████████░░░░░░░░
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -108,21 +107,14 @@ AI Agents           ████████████░░░░░░░░
 
 <br/>
 
+## 📈 Most Used Languages
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Varsity16&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsity16&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
